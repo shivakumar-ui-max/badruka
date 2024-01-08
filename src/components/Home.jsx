@@ -9,7 +9,7 @@ const Home = () => {
       >
          <div className="flex-1">
             <h1 className="text-4xl textBlack uppercase font-bold md:text-5xl">
-               abacus 2024
+               Abacus 2024
             </h1>
             <p className="text-base mt-5 capitalize">
                welcome to abacus-2024 the national level IT QUIZ for tech
